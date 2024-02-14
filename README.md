@@ -15,11 +15,11 @@ Estos proyectos los guardo en [DeBeAndo](https://github.com/debeando).
 - [go-proxysql](https://github.com/debeando/go-proxysql) Librería para administrar facilmente el [ProxySQL](https://proxysql.com).
 - [docker-proxysql](https://github.com/debeando/docker-proxysql) Imagen de docker con [ProxySQL](https://proxysql.com) y AmazonLinux.
 
+Hay muchos más en https://github.com/debeando y algunos abandonados, todos han hecho con mucho cariño.
+
 En el repositorio de [The Hotels Network](https://github.com/the-hotels-network):
 
 - [go-tinybird](https://github.com/the-hotels-network/go-tinybird) Librería para optimizar las consultas a [Tinybird](https://www.tinybird.co/).
-
-Hay muchos más en https://github.com/debeando y algunos abandonados, todos han hecho con mucho cariño.
 
 ## Mis proyectos de electrónica
 
