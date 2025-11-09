@@ -26,6 +26,7 @@ I help fast-growing companies overcome their database challenges on AWS, from ri
 ![](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=fff)
 ![](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/proxysql-%23326ce5.svg?style=for-the-badge&logo=proxysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&style=for-the-badge&logoColor=important)
 ![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
