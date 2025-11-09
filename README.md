@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://nicola.strappazzon.me" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?style=for-the-badge&logo=html5&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/nicola-strappazzon-carotenuto/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://es.stackoverflow.com/users/74571/nicola-strappazzon/" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nicola-strappazzon-carotenuto/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://es.stackoverflow.com/users/74571/nicola-strappazzon/" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
 
 ## My Tech Stack
