@@ -1,5 +1,7 @@
 ## Hi there, I'm Nicola Strappazzon Carotenuto, 👋
 
+I help fast-growing companies overcome their database challenges on AWS, from rising costs and security compliance to slow response times — so they can focus on scaling their product.
+
 <p align="center">
   <a href="https://nicola.strappazzon.me" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?style=for-the-badge&logo=html5&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/nicola-strappazzon-carotenuto/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
